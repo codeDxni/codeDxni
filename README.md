@@ -1,5 +1,3 @@
-## TEST
-
 <div id="top"></div>
 
 <div align="center" >
@@ -8,4 +6,5 @@
     </div>
 
 <div align= "center">
-    <a href= "https://git.io/typing-svg"><img src= "https://readme-typing-svg.herokuapp.com?font=Monsterrat&color=2B213A&center=true&vCenter=true&width=450&lines=I'm+Daniel+Moreno;Full+Stack+Developer+Student;Music+%26+Programming" alt="Quick Intro"></a>
+    <a href= "https://git.io/typing-svg"><img src= "https://readme-typing-svg.herokuapp.com?font=Monsterrat&size=35&color=C5C9CF&center=true&vCenter=true&width=450&lines=I'm+Daniel+Moreno;Full+Stack+Developer+Student;Music+%26+Programming" alt="Quick Intro"></a>
+</div>
